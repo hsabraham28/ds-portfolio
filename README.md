@@ -6,6 +6,14 @@ A passionate aspiring data scientist with experience in research and modeling th
 
 hsabraham28@berkeley.edu
 
+## Skills
+### Languages/Libraries
+Python, NumPy, Pandas, scikit-learn, Keras,
+PyTorch, Beautiful Soup, SQL, R, HTML, Java, C
+### Platforms/Development Tools
+Tableau, Streamlit, Vega-Altair, Git, Flask,
+Google Cloud Platform, BigQuery, Amazon Web
+Services, Postgres, Docker
 
 
 ## Education
