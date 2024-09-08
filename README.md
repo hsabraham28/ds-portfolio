@@ -2,11 +2,10 @@
 
 A passionate aspiring data scientist with experience in research and modeling that solves business problems. Highly skilled in data visualization, programming in several languages, machine learning, and innovative thinking.
 
-www.linkedin.com/in/hsabraham28
+[www.linkedin.com/in/hsabraham28](www.linkedin.com/in/hsabraham28)
 
 hsabraham28@berkeley.edu
 
-832-622-5548
 
 
 ## Education
@@ -38,16 +37,19 @@ hsabraham28@berkeley.edu
 [Code Repository](https://github.com/hsabraham28/mids-nlp-final-proj)
 
 Experimented with LSTM, BERT, mT5, and M2M100 models to translate from English to Tigrinya with limited data. Succeeded in showing that quality translation is possible with pretrained embeddings of a language from a similar family and fine-tuning on low-resource language data.
+
 **AI-Generated Image Detection | MIDS | Spring 2024**
 
 [Code Repository](https://github.com/hsabraham28/mids_207_final_project)
 
 Experimented with 12 different machine learning models to distinguish between real and AI-generated images.
+
 **Predicting Insurance Charges | 2024**
 
 [Code Repository](https://github.com/hsabraham28/datacamp-projects/tree/main/Predicting%20Insurance%20Charges)
 
 Linear Regression model to predict customer healthcare costs based on DataCamp dataset of insurance charges with customer age, sex, smoker indication, number of children, bmi, and region.
+
 **Predicting Ideal Crop for Agriculture | 2024**
 
 [Code Repository](https://github.com/hsabraham28/datacamp-projects/tree/main/Ideal%20Crop%20Prediction%20for%20Agriculture)
