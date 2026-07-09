@@ -1,8 +1,8 @@
 # Hannah Abraham's Data Science Portfolio
 
-A passionate aspiring data scientist with experience in research and modeling that solves business problems. Highly skilled in data visualization, programming in several languages, machine learning, and innovative thinking.
+A passionate data scientist with experience in research and modeling that solves business problems. Highly skilled in data visualization, programming in several languages, machine learning, and innovative thinking.
 
-[www.linkedin.com/in/hsabraham28](linkedin.com/in/hsabraham28)
+[www.linkedin.com/in/hsabraham28](https://www.linkedin.com/in/hsabraham28)
 
 hsabraham28@berkeley.edu
 
