@@ -4,7 +4,7 @@ A passionate data scientist with experience in research and modeling that solves
 
 [www.linkedin.com/in/hsabraham28](https://www.linkedin.com/in/hsabraham28)
 
-hsabraham28@berkeley.edu
+hsabraham28@gmail.com
 
 ## Skills
 ### Languages/Libraries
