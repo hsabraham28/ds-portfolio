@@ -2,16 +2,16 @@
 
 A passionate aspiring data scientist with experience in research and modeling that solves business problems. Highly skilled in data visualization, programming in several languages, machine learning, and innovative thinking.
 
-[www.linkedin.com/in/hsabraham28](www.linkedin.com/in/hsabraham28)
+[www.linkedin.com/in/hsabraham28](linkedin.com/in/hsabraham28)
 
 hsabraham28@berkeley.edu
 
 ## Skills
 ### Languages/Libraries
-Python, NumPy, Pandas, scikit-learn, Keras,
-PyTorch, Beautiful Soup, SQL, R, HTML, Java, C
+Python, PySpark, Pandas, scikit-learn, Keras,
+PyTorch, Beautiful Soup, SQL, R, HTML, Java
 ### Platforms/Development Tools
-Tableau, Streamlit, Vega-Altair, Git, Flask,
+Tableau, Streamlit, Vega-Altair, Git, Flask, Databricks, 
 Google Cloud Platform, BigQuery, Amazon Web
 Services, Postgres, Docker
 
@@ -22,6 +22,13 @@ Services, Postgres, Docker
 
 
 ## Experience
+**Decision Scientist @ H-E-B (_December 2024 - Present_)**
+- Researched and piloted causal inference models for incremental sales measurement across retail media campaigns, positioning the team for IAB-aligned production deployment in 2026.
+- Architected an experiment scoring and measurement framework for retail media campaigns, including a dashboard that surfaces high-opportunity suppliers and search terms to guide future experimental design.
+- Maintained and scaled Python and SQL data pipelines for a multi-touch attribution model powering campaign measurement and analytics reporting across 700+ supplier initiatives.
+- Prototyped an AI-assisted reporting agent using Google Gemini to automate data quality checks and generate plain-language campaign performance narratives to reduce report delivery time by 30%.
+- Partnered with data engineering and business stakeholders to align the measurement data ecosystem with Medallion Architecture, delivering gold-layer tables for ROAS and conversion reporting with improved metric accuracy and governance.
+
 **Data Science Intern @ Kohl's (_June 2024 - August 2024_)**
 -	Completed a technical proof-of-concept for an AI-powered virtual try-on experience to lift conversion rates, reduce return rates, and increase revenue per visitor.
 -	Experimented with generative AI models, such as various stable diffusion models, control nets, and GANs.
@@ -40,6 +47,11 @@ Services, Postgres, Docker
 
 
 ## Projects
+
+**Pedestrian Navigation App with Generative AI**
+- [Deployed App](https://sf-navigator-pathly-production.up.railway.app/)
+- Built and deployed a pedestrian safety navigation app for San Francisco using a weighted multi-factor scoring model (crime recency decay, lighting, foot traffic, accessibility, and infrastructure) on real-time open data, with OSM-based safe route generation and Gemini-powered explanations, to help women and pedestrians find safer walking routes.
+
 **Low-Resource Machine Translation: Tigrinya | MIDS | Summer 2024**
 - [Code Repository](https://github.com/hsabraham28/mids-nlp-final-proj)
 - Experimented with LSTM, BERT, mT5, and M2M100 models to translate from English to Tigrinya with limited data. Succeeded in showing that quality translation is possible with pretrained embeddings of a language from a similar family and fine-tuning on low-resource language data.
