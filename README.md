@@ -48,7 +48,7 @@ Services, Postgres, Docker
 
 ## Projects
 
-**Pedestrian Navigation App with Generative AI**
+**Pedestrian Navigation App with Generative AI | Summer 2026**
 - [Deployed App](https://sf-navigator-pathly-production.up.railway.app/)
 - Built and deployed a pedestrian safety navigation app for San Francisco using a weighted multi-factor scoring model (crime recency decay, lighting, foot traffic, accessibility, and infrastructure) on real-time open data, with OSM-based safe route generation and Gemini-powered explanations, to help women and pedestrians find safer walking routes.
 
